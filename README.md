@@ -17,6 +17,6 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
-<h2>For call me</h2>
-<br>
-<h3>0895337565142</h3>
+<h2>For call me</h2> <h3>iqbalnuralih@gmail.com<span>0895337565142</h3>
+
+
